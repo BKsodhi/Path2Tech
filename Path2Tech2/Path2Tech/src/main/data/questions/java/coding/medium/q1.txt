@@ -1,0 +1,18 @@
+Question: Write a program to check if a string is a palindrome.
+
+Description:
+- A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward as forward (ignoring spaces, punctuation, and case).
+- Write a program that checks if the given string is a palindrome.
+
+Input:
+- A single string s (1 <= |s| <= 1000). The string can contain alphabets, digits, and spaces.
+
+Output:
+- Return "Yes" if the string is a palindrome, otherwise return "No".
+
+Examples:
+Input: "racecar"
+Output: Yes
+
+Input: "hello"
+Output: No

@@ -1,0 +1,19 @@
+Question: Write a program to check if a number is prime.
+
+Description:
+- A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+- Write a program that checks if a given number n is prime.
+- Return "Yes" if n is prime, otherwise return "No".
+
+Input:
+- A single integer n (1 <= n <= 1000).
+
+Output:
+- A string "Yes" if the number is prime, otherwise "No".
+
+Examples:
+Input: 5
+Output: Yes
+
+Input: 4
+Output: No

@@ -1,0 +1,76 @@
+What is JVM?
+A) Java Variable Manager
+B) Java Virtual Machine
+C) Java Verified Memory
+D) None
+ANSWER: B
+
+Which keyword is used to inherit a class in Java?
+A) implement
+B) inherit
+C) extends
+D) imports
+ANSWER: C
+
+Which method is the entry point of a Java program?
+A) start()
+B) main()
+C) run()
+D) init()
+ANSWER: B
+
+Which keyword is used to define a constant in Java?
+A) static
+B) const
+C) final
+D) constant
+ANSWER: C
+
+What is the default value of a boolean variable?
+A) true
+B) false
+C) 0
+D) null
+ANSWER: B
+
+Which package contains the Scanner class?
+A) java.util
+B) java.io
+C) java.lang
+D) java.net
+ANSWER: A
+
+What is the size of an int variable in Java?
+A) 2 bytes
+B) 4 bytes
+C) 8 bytes
+D) Depends on system
+ANSWER: B
+
+What is used to handle exceptions in Java?
+A) catch
+B) try-catch
+C) final
+D) error
+ANSWER: B
+
+Which of the following is not a Java feature?
+A) Object-Oriented
+B) Platform Dependent
+C) Secure
+D) Robust
+ANSWER: B
+
+Which company originally developed Java?
+A) Oracle
+B) Sun Microsystems
+C) Microsoft
+D) IBM
+ANSWER: B
+
+What is the size of int in Java?
+A) 4 bytes
+B) 8 bytes
+C) 2 bytes
+D) 1 byte
+ANSWER: A

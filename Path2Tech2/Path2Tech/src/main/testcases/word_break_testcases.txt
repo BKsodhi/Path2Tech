@@ -1,0 +1,39 @@
+Test Case 1:
+Input: s = "applepie", dictionary = ["apple", "pie"]
+Expected Output: true
+
+Test Case 2:
+Input: s = "catsanddog", dictionary = ["cat", "cats", "and", "sand", "dog"]
+Expected Output: true
+
+Test Case 3:
+Input: s = "applebanana", dictionary = ["apple", "banana"]
+Expected Output: true
+
+Test Case 4:
+Input: s = "iloveleetcode", dictionary = ["i", "love", "leetcode"]
+Expected Output: true
+
+Test Case 5:
+Input: s = "applepenapple", dictionary = ["apple", "pen"]
+Expected Output: true
+
+Test Case 6:
+Input: s = "catsandog", dictionary = ["cats", "dog", "sand", "and"]
+Expected Output: false
+
+Test Case 7:
+Input: s = "car", dictionary = ["ca", "car", "c", "a"]
+Expected Output: true
+
+Test Case 8:
+Input: s = "ilovecoding", dictionary = ["i", "love", "cod", "ing", "coding"]
+Expected Output: true
+
+Test Case 9:
+Input: s = "applepie", dictionary = ["apple", "pen"]
+Expected Output: false
+
+Test Case 10:
+Input: s = "abcdef", dictionary = ["abc", "def"]
+Expected Output: true

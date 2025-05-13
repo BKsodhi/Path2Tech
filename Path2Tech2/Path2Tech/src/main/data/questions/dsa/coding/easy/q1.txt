@@ -1,0 +1,9 @@
+Find Maximum
+
+Write a program to read an array of integers and print the maximum element.
+
+Input Format:
+- A single line with space-separated integers.
+
+Output Format:
+- A single integer: the maximum value.

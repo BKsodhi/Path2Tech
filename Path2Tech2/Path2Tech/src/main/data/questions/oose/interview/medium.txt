@@ -1,0 +1,70 @@
+What is encapsulation?
+A) Combining code and data
+B) Showing only behavior
+C) Hiding UI
+D) None
+ANSWER: A
+
+Which diagram is used to show state transitions?
+A) Sequence diagram
+B) Class diagram
+C) State diagram
+D) Component diagram
+ANSWER: C
+
+What is aggregation in OOSE?
+A) Inheritance
+B) Strong association
+C) Whole-part relationship
+D) None
+ANSWER: C
+
+What does a component diagram show?
+A) Class hierarchy
+B) Software components
+C) User roles
+D) Code structure
+ANSWER: B
+
+What is polymorphism?
+A) Multiple classes
+B) Multiple inheritance
+C) Many forms of a method
+D) Dynamic typing
+ANSWER: C
+
+Which is true about activity diagrams?
+A) Describe object hierarchy
+B) Represent workflows
+C) Map network devices
+D) Show deployment
+ANSWER: B
+
+What does CRC stand for in OOSE?
+A) Class-Responsibility-Collaborator
+B) Code-Relation-Class
+C) Component-Relation-Class
+D) Class-Reference-Coding
+ANSWER: A
+
+Which UML diagram shows physical deployment?
+A) Deployment diagram
+B) Sequence diagram
+C) Class diagram
+D) Use case diagram
+ANSWER: A
+
+What is the main goal of OOSE?
+A) Faster compilation
+B) Reusable code
+C) Memory management
+D) UI design
+ANSWER: B
+
+In UML, what does a solid arrow with closed head represent?
+A) Dependency
+B) Inheritance
+C) Aggregation
+D) Composition
+ANSWER: B
+

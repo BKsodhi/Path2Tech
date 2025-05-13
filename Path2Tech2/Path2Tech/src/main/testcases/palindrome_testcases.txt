@@ -1,0 +1,27 @@
+Test Case 1:
+Input: "racecar"
+Expected Output: Yes
+
+Test Case 2:
+Input: "madam"
+Expected Output: Yes
+
+Test Case 3:
+Input: "hello"
+Expected Output: No
+
+Test Case 4:
+Input: "A man a plan a canal Panama"
+Expected Output: Yes
+
+Test Case 5:
+Input: "12321"
+Expected Output: Yes
+
+Test Case 6:
+Input: "apple"
+Expected Output: No
+
+Test Case 7:
+Input: "Noon"
+Expected Output: Yes

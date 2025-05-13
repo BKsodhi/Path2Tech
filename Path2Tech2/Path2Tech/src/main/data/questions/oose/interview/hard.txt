@@ -1,0 +1,70 @@
+What is the purpose of the robustness diagram?
+A) Describe database
+B) Bridge analysis and design
+C) Network mapping
+D) None
+ANSWER: B
+
+What does <<include>> represent in a use case?
+A) Optional behavior
+B) Mandatory included behavior
+C) Inheritance
+D) Communication
+ANSWER: B
+
+What is the significance of GRASP principles?
+A) Code optimization
+B) Design responsibility allocation
+C) UI Design
+D) Database modeling
+ANSWER: B
+
+What is the difference between association and dependency?
+A) No difference
+B) Association is permanent
+C) Dependency is tighter
+D) Dependency is weaker
+ANSWER: D
+
+What is the output of analysis phase in OOSE?
+A) Source code
+B) Design model
+C) Use case model
+D) Class diagram
+ANSWER: C
+
+What is the purpose of a package diagram?
+A) Show control flow
+B) Logical grouping of elements
+C) Physical packaging
+D) UI layout
+ANSWER: B
+
+In UML, what does a filled diamond represent?
+A) Aggregation
+B) Inheritance
+C) Composition
+D) Dependency
+ANSWER: C
+
+What is boundary class in OOSE?
+A) Connects control to entity
+B) Connects user to system
+C) Stores data
+D) Logic layer
+ANSWER: B
+
+What is the focus of domain modeling?
+A) Database tables
+B) UI elements
+C) Real-world concepts
+D) Code structure
+ANSWER: C
+
+What is Liskov Substitution Principle?
+A) Subclass must not change superclass behavior
+B) Always use interface
+C) Class should have one responsibility
+D) Don't repeat code
+ANSWER: A
+

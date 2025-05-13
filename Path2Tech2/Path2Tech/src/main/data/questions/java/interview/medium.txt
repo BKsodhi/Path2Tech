@@ -1,0 +1,70 @@
+What is method overloading?
+A) Same method name with different parameters
+B) Different method names
+C) Same parameters
+D) None
+ANSWER: A
+
+What is method overriding?
+A) Method with same name in same class
+B) Method with different parameters
+C) Subclass redefining superclass method
+D) None
+ANSWER: C
+
+What is the use of 'super' keyword?
+A) Refer child class
+B) Refer parent class
+C) Call static method
+D) None
+ANSWER: B
+
+What is abstraction?
+A) Hiding implementation details
+B) Data protection
+C) Inheritance
+D) Polymorphism
+ANSWER: A
+
+Which is not a type of constructor?
+A) Default
+B) Parameterized
+C) Static
+D) Copy
+ANSWER: C
+
+What is the output of 10 + 20 + "Java"?
+A) Java30
+B) 30Java
+C) Error
+D) Java1020
+ANSWER: B
+
+What is an interface?
+A) Class
+B) Abstract class
+C) Collection of abstract methods
+D) None
+ANSWER: C
+
+Which exception is unchecked?
+A) IOException
+B) SQLException
+C) ArithmeticException
+D) FileNotFoundException
+ANSWER: C
+
+Which keyword is used to prevent inheritance?
+A) static
+B) const
+C) final
+D) private
+ANSWER: C
+
+Which class is the superclass of all classes in Java?
+A) Object
+B) Main
+C) Parent
+D) Root
+ANSWER: A
+

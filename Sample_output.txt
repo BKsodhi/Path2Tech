@@ -1,0 +1,203 @@
+Microsoft Windows \[Version 10.0.26100.3775]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Bhavnoor kaur\OneDrive\Desktop\Path2Tech2 (5)\Path2Tech2\Path2Tech\src>javac main/modules/DSA\_Module.java main/utils/QuestionHandler.java main/Main.java
+
+C:\Users\Bhavnoor kaur\OneDrive\Desktop\Path2Tech2 (5)\Path2Tech2\Path2Tech\src>java main.Main
+Welcome to Path2Tech!!
+
+Choose an option to proceed:
+
+1. Register (New User)
+2. Login (Existing User)
+3. Update (Update Your Profile)
+4. Delete (Delete Your Account)
+   Enter choice (1-4): 1
+   Enter username: Baldev\_Singh
+   Enter email: [singhbaldev@gmail.com](mailto:singhbaldev@gmail.com)
+   Enter phone: 0123456789
+   Enter age: 21
+   Enter password: Singh\@123
+   Registration successful!
+
+Hey Baldev\_Singh, what do you want to practice?
+
+Choose a subject to practice:
+
+1. DSA
+2. JAVA
+3. Exit
+   Enter your choice (1-3): 1
+   \[DSA] Module started for Baldev\_Singh
+
+Choose what you want to practice:
+
+1. Coding
+2. Interview Questions
+3. Mock Test
+4. Go Back
+   Enter your choice (1-4): 2
+
+Baldev\_Singh, what type of interview questions do you want to practice?
+Choose the options below to proceed:
+
+1. Easy-level questions
+2. Medium-level questions
+3. Hard-level questions
+   Enter your choice (1-3): 1
+   Starting easy interview questions for Baldev\_Singh...
+   Loading questions from: main/data/questions/dsa/interview/easy.txt
+
+Q1: What is the main purpose of using a stack?
+A) FIFO
+B) LIFO
+C) Random Access
+D) Sorting
+Enter your answer (A/B/C/D): A
+? Incorrect. Correct Answer: B
+
+Q2: Which operation is not typically associated with a queue?
+A) Enqueue
+B) Dequeue
+C) Push
+D) Peek
+Enter your answer (A/B/C/D): B
+? Incorrect. Correct Answer: C
+
+Q3: What is the time complexity of inserting at the end of a linked list (without tail pointer)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Enter your answer (A/B/C/D): B
+? Correct!
+
+Q4: A linear search on an unsorted array has a worst-case time of:
+A) O(log n)
+B) O(n)
+C) O(n log n)
+D) O(1)
+Enter your answer (A/B/C/D): A
+? Incorrect. Correct Answer: B
+
+Q5: Which data structure is used in function call management?
+A) Queue
+B) Array
+C) Stack
+D) Tree
+Enter your answer (A/B/C/D): C
+? Correct!
+
+Q6: Which of the following is a non-linear data structure?
+A) Array
+B) Linked List
+C) Stack
+D) Tree
+Enter your answer (A/B/C/D): D
+? Correct!
+
+Q7: Which sorting algorithm works by repeatedly swapping adjacent elements?
+A) Merge Sort
+B) Quick Sort
+C) Bubble Sort
+D) Insertion Sort
+Enter your answer (A/B/C/D): A
+? Incorrect. Correct Answer: C
+
+Q8: Which of the following is a stable sorting algorithm?
+A) Quick Sort
+B) Merge Sort
+C) Heap Sort
+D) Selection Sort
+Enter your answer (A/B/C/D): B
+? Correct!
+
+Q9: Which data structure is best for implementing recursion?
+A) Heap
+B) Queue
+C) Stack
+D) Graph
+Enter your answer (A/B/C/D): A
+? Incorrect. Correct Answer: C
+
+Q10: In a binary tree, the number of leaf nodes is:
+A) Always 1
+B) Depends on structure
+C) n/2
+D) n-1
+Enter your answer (A/B/C/D): C
+? Incorrect. Correct Answer: B
+
+You got 4 out of 10 correct.
+
+Choose what you want to practice:
+
+1. Coding
+2. Interview Questions
+3. Mock Test
+4. Go Back
+   Enter your choice (1-4): 1
+
+Baldev\_Singh, what type of coding do you want to practice?
+Choose the options below to proceed:
+
+1. Easy-level questions
+2. Medium-level questions
+3. Hard-level questions
+   Enter your choice (1-3): 1
+   Your question: Write a Java program to find the factorial of a number.
+   Please type your full Java program below.
+   End your code with a single line 'END':
+   import java.util.Scanner;
+
+public class UserCode {
+public static void main(String\[] args) {
+Scanner scanner = new Scanner(System.in);
+int num = scanner.nextInt();
+
+```
+    long factorial = 1;
+    for (int i = 1; i <= num; i++) {
+        factorial *= i;
+    }
+
+    System.out.println(factorial);
+}
+```
+
+}
+END
+Code saved successfully.
+? Test Case 1 Passed
+? Test Case 2 Passed
+? Test Case 3 Passed
+? Test Case 4 Passed
+? Test Case 5 Passed
+
+? Total Passed: 5 / 5
+Baldev\_Singh do u want to continue with the second ques od easy level
+1 Continue
+2 Exit
+Enter your choice (1-2): 2
+Thank you for using Path2Tech. Goodbye!
+
+
+C:\Users\Bhavnoor kaur\OneDrive\Desktop\Path2Tech2 (5)\Path2Tech2\Path2Tech\src>javac main/Main.java main/coding/*.java main/database/*.java main/models/*.java main/modules/*.java main/utils/*.java
+
+C:\Users\Bhavnoor kaur\OneDrive\Desktop\Path2Tech2 (5)\Path2Tech2\Path2Tech\src>java main.Main
+
+
+
+
+
+
+C:\Users\Bhavnoor kaur\OneDrive\Desktop\Path2Tech2 (5)\Path2Tech2\Path2Tech\src>javac main/Main.java main/coding/*.java main/database/*.java main/models/*.java main/modules/*.java main/utils/*.java
+
+C:\Users\Bhavnoor kaur\OneDrive\Desktop\Path2Tech2 (5)\Path2Tech2\Path2Tech\src>java main.Main                                                          
+
+
+
+
+C:\Users\Bhavnoor kaur\OneDrive\Desktop\Path2Tech2 (5)\Path2Tech2\Path2Tech\src>javac main/Main.java main/coding/*.java main/database/*.java main/models/*.java main/modules/*.java main/utils/*.java main/submissions/UserCode.java
+
+C:\Users\Bhavnoor kaur\OneDrive\Desktop\Path2Tech2 (5)\Path2Tech2\Path2Tech\src>java main.Main

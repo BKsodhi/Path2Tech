@@ -1,0 +1,19 @@
+Test Case 1:
+Input: 5
+Expected Output: Yes
+
+Test Case 2:
+Input: 4
+Expected Output: No
+
+Test Case 3:
+Input: 13
+Expected Output: Yes
+
+Test Case 4:
+Input: 9
+Expected Output: No
+
+Test Case 5:
+Input: 29
+Expected Output: Yes

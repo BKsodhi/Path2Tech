@@ -1,0 +1,9 @@
+Count Even Numbers
+
+Write a program to count the number of even integers in a given list.
+
+Input Format:
+- A single line with space-separated integers.
+
+Output Format:
+- A single integer representing the count of even numbers.

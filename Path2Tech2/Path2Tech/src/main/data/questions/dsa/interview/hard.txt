@@ -1,0 +1,70 @@
+What is the best algorithm for finding all cycles in a directed graph?
+A) BFS
+B) Tarjan’s Algorithm
+C) Kruskal’s Algorithm
+D) Floyd-Warshall
+ANSWER: B
+
+What is the time complexity of Bellman-Ford algorithm?
+A) O(V^2)
+B) O(VE)
+C) O(E log V)
+D) O(V log V)
+ANSWER: B
+
+What is the minimum time complexity to search in a skip list?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n log n)
+ANSWER: C
+
+What is the best way to detect a cycle in an undirected graph?
+A) BFS
+B) DFS with parent tracking
+C) Topological Sort
+D) Greedy Algorithm
+ANSWER: B
+
+Which is used in dynamic connectivity problems?
+A) Heap
+B) Union-Find
+C) Segment Tree
+D) AVL Tree
+ANSWER: B
+
+How many traversals are needed to construct a binary tree uniquely?
+A) One
+B) Two
+C) Three
+D) Four
+ANSWER: B
+
+Which algorithm is not used for MST?
+A) Prim's
+B) Kruskal's
+C) Dijkstra's
+D) Boruvka's
+ANSWER: C
+
+What's the time complexity of building a heap from an array?
+A) O(n log n)
+B) O(n)
+C) O(log n)
+D) O(1)
+ANSWER: B
+
+What is the purpose of articulation points in a graph?
+A) Identify minimum weight
+B) Break graph into components
+C) Maximize flow
+D) Detect cycles
+ANSWER: B
+
+What kind of problem is the "0/1 Knapsack"?
+A) Greedy
+B) Divide and Conquer
+C) Backtracking
+D) Dynamic Programming
+ANSWER: D
+

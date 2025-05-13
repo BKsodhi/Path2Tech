@@ -1,0 +1,7 @@
+hello
+world
+racecar
+Python
+Palindrome
+madam
+apple

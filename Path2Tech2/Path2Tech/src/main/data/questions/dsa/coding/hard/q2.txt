@@ -1,0 +1,9 @@
+Longest Word in Sentence
+
+Write a program to find the longest word in a sentence.
+
+Input Format:
+- A single line with a sentence.
+
+Output Format:
+- The longest word. If multiple, return the first one.

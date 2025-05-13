@@ -1,0 +1,79 @@
+Path2Tech/
+└── src/
+    └── main/
+        ├── Main.java                         ← 🔷 Main entry point
+
+        ├── coding/                           ← 💻 Dynamic coding logic
+        │   ├── CodeRunner.java               ← Save user code, compile
+        │   ├── CodeExecutor.java             ← Execute & validate code with testcases
+
+        ├── database/                         ← 💾 Persistent data handling
+        │   ├── UserDatabase.java             ← Handles users.txt
+        │   ├── ProgressDatabase.java         ← Handles progress_data.txt
+        │   ├── PracticeDatabase.java         ← CRUD for coding/interview/mock attempts
+
+        ├── models/                           ← 🧩 Data models (POJOs)
+        │   ├── User.java                     ← User details
+        │   ├── Progress.java                 ← Progress per module
+        │   └── Attempt.java                  ← Individual submission or attempt record
+
+        ├── modules/                          ← 🧠 Subject and logic controllers
+        │   ├── DSA_Module.java               ← Manages DSA practice
+        │   ├── JAVA_Module.java              ← Manages Java practice
+        │   ├── ProgressModule.java           ← Handles progress view/update/delete
+        │   └── UserModule.java               ← Registration/login
+
+        ├── utils/                            ← 🛠 Helper classes
+        │   ├── InputValidator.java           ← Email, password, etc.
+        │   ├── ProgressUtil.java             ← Utility functions for CRUD
+        │   └── QuestionHandler.java          ← Loads static questions
+
+        ├── submissions/                      ← 📂 Last user code submitted
+        │   └── UserCode.java
+
+        ├── data/                             ← 📊 Static content & persistent data
+        │   ├── users.txt                     ← Registered users (login)
+        │   ├── progress_data.txt             ← Overall progress summary
+        │   ├── practice_records.txt          ← Optional: detailed submission logs
+        │   └── questions/
+        │       ├── dsa/
+        │       │   ├── interview/
+        │       │   │   ├── easy.txt
+        │       │   │   ├── medium.txt
+        │       │   │   └── hard.txt
+        │       │   ├── mock/
+        │       │   │   └── dsa_mock_test.txt
+        │       │   └── coding/
+        │       │       ├── easy/
+        │       │       │   ├── q1.txt
+        │       │       │   └── q2.txt
+        │       │       ├── medium/
+        │       │       │   ├── q1.txt
+        │       │       │   └── q2.txt
+        │       │       └── hard/
+        │       │           ├── q1.txt
+        │       │           └── q2.txt
+        │       └── java/
+        │           ├── interview/
+        │           │   ├── easy.txt
+        │           │   ├── medium.txt
+        │           │   └── hard.txt
+        │           ├── mock/
+        │           │   └── java_mock_test.txt
+        │           └── coding/
+        │               ├── easy/
+        │               │   ├── q1.txt
+        │               │   └── q2.txt
+        │               ├── medium/
+        │               │   ├── q1.txt
+        │               │   └── q2.txt
+        │               └── hard/
+        │                   ├── q1.txt
+        │                   └── q2.txt
+
+        └── testcases/                        ← ✅ Code validation inputs
+            ├── factorial_testcases.txt
+            ├── palindrome_testcases.txt
+            ├── reverse_testcases.txt
+            ├── prime_testcases.txt
+            └── ...                           ← Add more per coding question

@@ -1,0 +1,40 @@
+[MCQ]
+Which of the following is not a Java feature?
+A. Object-oriented
+B. Use of pointers
+C. Portable
+D. Dynamic
+Answer: B
+---
+[MCQ]
+Which of the following is the correct syntax to declare a main method in Java?
+A. public static void main(String[] args)
+B. public void static main(String[] args)
+C. static void main(String args[])
+D. void public static main(String args[])
+Answer: A
+---
+[MCQ]
+Which keyword is used for inheriting a class in Java?
+A. implement
+B. inherits
+C. extends
+D. derive
+Answer: C
+---
+[MCQ]
+What is the default value of a local variable in Java?
+A. 0
+B. null
+C. Depends on the data type
+D. No default value
+Answer: D
+---
+[MCQ]
+Which of these cannot be used for a variable name in Java?
+A. identifier
+B. _main
+C. clas
+D. first_name
+Answer: C
+---

@@ -1,0 +1,70 @@
+What does OOSE stand for?
+A) Object-Oriented Software Environment
+B) Object-Oriented Software Engineering
+C) Object-Oriented System Engineering
+D) None
+ANSWER: B
+
+Which of the following is not an OOSE concept?
+A) Inheritance
+B) Encapsulation
+C) Polymorphism
+D) Compilation
+ANSWER: D
+
+Which UML diagram shows object interactions?
+A) Class diagram
+B) Sequence diagram
+C) Use case diagram
+D) Activity diagram
+ANSWER: B
+
+Who introduced the concept of OOSE?
+A) Grady Booch
+B) Ivar Jacobson
+C) James Gosling
+D) Bjarne Stroustrup
+ANSWER: B
+
+What does a use case describe?
+A) Code logic
+B) System behavior
+C) Variable types
+D) Algorithms
+ANSWER: B
+
+Which language is commonly used with OOSE?
+A) Python
+B) Java
+C) C++
+D) All of the above
+ANSWER: D
+
+What is an actor in a use case diagram?
+A) A database
+B) An external entity
+C) A Java class
+D) None
+ANSWER: B
+
+What does a class diagram represent?
+A) Workflow
+B) System UI
+C) Object relationships
+D) Timelines
+ANSWER: C
+
+What is generalization in OOSE?
+A) Reducing code
+B) Hiding details
+C) Inheritance relation
+D) Object creation
+ANSWER: C
+
+Which diagram models system functionality?
+A) Use case diagram
+B) Component diagram
+C) Deployment diagram
+D) Object diagram
+ANSWER: A
+

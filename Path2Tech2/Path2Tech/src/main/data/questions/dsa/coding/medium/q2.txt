@@ -1,0 +1,9 @@
+Reverse Words in Sentence
+
+Write a program to reverse the words in a sentence.
+
+Input Format:
+- A single line with a sentence.
+
+Output Format:
+- A sentence with the word order reversed.

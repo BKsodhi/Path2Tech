@@ -1,0 +1,21 @@
+Question: Write a program to determine if a string can be segmented into words from a given dictionary.
+
+Description:
+- Given a string s and a dictionary of words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
+- You need to return true if the string can be segmented into one or more dictionary words, otherwise return false.
+
+Input:
+- A string s (1 <= |s| <= 1000).
+- A list of dictionary words (1 <= |dictionary| <= 1000).
+
+Output:
+- Return a boolean value `true` if the string can be segmented into words from the dictionary, otherwise return `false`.
+
+Example:
+Input: s = "applepie", dictionary = ["apple", "pie"]
+Output: true
+Explanation: The string can be segmented as "apple pie".
+
+Input: s = "catsanddog", dictionary = ["cat", "cats", "and", "sand", "dog"]
+Output: true
+Explanation: The string can be segmented as "cats and dog".

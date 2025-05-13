@@ -1,0 +1,83 @@
+Q1: What will be the output of the following code?
+int a = 5;
+System.out.println(a++);
+A) 5
+B) 6
+C) Error
+D) 0
+ANSWER: A
+
+Q2: What will be printed by this code?
+System.out.println("Hello" + 1 + 2);
+A) Hello3
+B) Hello12
+C) 3Hello
+D) Error
+ANSWER: B
+
+Q3: Output?
+int x = 10;
+System.out.println(--x);
+A) 10
+B) 11
+C) 9
+D) Error
+ANSWER: C
+
+Q4: Output?
+System.out.println(3 * 2 + "Java");
+A) Java6
+B) 6Java
+C) Java
+D) Error
+ANSWER: B
+
+Q5: Output?
+System.out.println('A' + 1);
+A) A1
+B) 66
+C) B
+D) Error
+ANSWER: B
+
+Q6: Output?
+int a = 3, b = 4;
+System.out.println(a * b);
+A) 7
+B) 12
+C) 1
+D) Error
+ANSWER: B
+
+Q7: Output?
+System.out.println(true && false);
+A) true
+B) false
+C) 0
+D) Error
+ANSWER: B
+
+Q8: Output?
+System.out.println(10 / 4);
+A) 2.5
+B) 2
+C) 3
+D) 2.0
+ANSWER: B
+
+Q9: Output?
+System.out.println(5 % 2);
+A) 2
+B) 1
+C) 0
+D) 5
+ANSWER: B
+
+Q10: Output?
+System.out.println((2 + 3) * 4);
+A) 14
+B) 20
+C) 24
+D) 8
+ANSWER: B
+

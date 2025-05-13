@@ -1,0 +1,20 @@
+Question: Write a program to find the length of the longest substring without repeating characters.
+
+Description:
+- Given a string s, find the length of the longest substring without repeating characters.
+- The function should return the length of the longest substring that does not contain repeating characters.
+
+Input:
+- A string s of length n (1 <= |s| <= 1000). The string consists of printable ASCII characters.
+
+Output:
+- An integer representing the length of the longest substring without repeating characters.
+
+Example:
+Input: "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+
+Input: "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.

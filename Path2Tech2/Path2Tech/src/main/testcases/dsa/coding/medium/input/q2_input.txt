@@ -1,0 +1,5 @@
+hello world
+java is fun
+data structures and algorithms
+openai is amazing
+hi

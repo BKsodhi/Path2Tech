@@ -1,0 +1,5 @@
+world hello
+fun is java
+algorithms and structures data
+amazing is openai
+hi

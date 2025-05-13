@@ -1,0 +1,70 @@
+
+What is the main purpose of using a stack?
+A) FIFO
+B) LIFO
+C) Random Access
+D) Sorting
+ANSWER: B
+
+Which operation is not typically associated with a queue?
+A) Enqueue
+B) Dequeue
+C) Push
+D) Peek
+ANSWER: C
+
+What is the time complexity of inserting at the end of a linked list (without tail pointer)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+ANSWER: B
+
+A linear search on an unsorted array has a worst-case time of:
+A) O(log n)
+B) O(n)
+C) O(n log n)
+D) O(1)
+ANSWER: B
+
+Which data structure is used in function call management?
+A) Queue
+B) Array
+C) Stack
+D) Tree
+ANSWER: C
+
+Which of the following is a non-linear data structure?
+A) Array
+B) Linked List
+C) Stack
+D) Tree
+ANSWER: D
+
+Which sorting algorithm works by repeatedly swapping adjacent elements?
+A) Merge Sort
+B) Quick Sort
+C) Bubble Sort
+D) Insertion Sort
+ANSWER: C
+
+Which of the following is a stable sorting algorithm?
+A) Quick Sort
+B) Merge Sort
+C) Heap Sort
+D) Selection Sort
+ANSWER: B
+
+Which data structure is best for implementing recursion?
+A) Heap
+B) Queue
+C) Stack
+D) Graph
+ANSWER: C
+
+In a binary tree, the number of leaf nodes is:
+A) Always 1
+B) Depends on structure
+C) n/2
+D) n-1
+ANSWER: B

@@ -1,0 +1,70 @@
+What is the purpose of the volatile keyword?
+A) To make variable final
+B) To prevent thread caching
+C) To lock method
+D) None
+ANSWER: B
+
+What is the output of Integer.valueOf("100")?
+A) 100
+B) "100"
+C) Error
+D) null
+ANSWER: A
+
+What does the finalize() method do?
+A) Initializes object
+B) Cleans before GC
+C) Ends program
+D) None
+ANSWER: B
+
+What is the difference between == and .equals()?
+A) No difference
+B) == checks content, equals() checks ref
+C) == checks ref, equals() checks content
+D) None
+ANSWER: C
+
+What is the default size of ArrayList?
+A) 0
+B) 5
+C) 10
+D) Not fixed
+ANSWER: C
+
+What is a marker interface?
+A) Has one method
+B) Has fields
+C) Has no methods
+D) None
+ANSWER: C
+
+How many types of memory areas in JVM?
+A) 2
+B) 3
+C) 5
+D) 1
+ANSWER: C
+
+What does synchronized keyword do?
+A) Enables multithreading
+B) Prevents concurrent access
+C) Locks class
+D) None
+ANSWER: B
+
+Can we override static methods?
+A) Yes
+B) No
+C) Depends
+D) Only final ones
+ANSWER: B
+
+What is the use of transient keyword?
+A) Make variable static
+B) Exclude from serialization
+C) Inherit class
+D) Prevent override
+ANSWER: B
+

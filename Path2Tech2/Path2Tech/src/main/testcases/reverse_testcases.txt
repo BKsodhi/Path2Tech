@@ -1,0 +1,27 @@
+Test Case 1:
+Input: "hello"
+Expected Output: "olleh"
+
+Test Case 2:
+Input: "world"
+Expected Output: "dlrow"
+
+Test Case 3:
+Input: "racecar"
+Expected Output: "racecar"
+
+Test Case 4:
+Input: "Python"
+Expected Output: "nohtyP"
+
+Test Case 5:
+Input: "Palindrome"
+Expected Output: "emordnilaP"
+
+Test Case 6:
+Input: "madam"
+Expected Output: "madam"
+
+Test Case 7:
+Input: "apple"
+Expected Output: "elppa"

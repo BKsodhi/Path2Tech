@@ -1,0 +1,85 @@
+Q1: Output?
+int x = 5;
+System.out.println(x++ + ++x);
+A) 11
+B) 10
+C) 12
+D) 13
+ANSWER: A
+
+Q2: Output?
+int x = 10;
+x = x++ + --x;
+System.out.println(x);
+A) 19
+B) 20
+C) 21
+D) 18
+ANSWER: A
+
+Q3: Output?
+System.out.println("a" + 'b' + 3);
+A) ab3
+B) ab
+C) ab3
+D) ab3
+ANSWER: C
+
+Q4: Output?
+int[] a = new int[3];
+System.out.println(a[0]);
+A) 0
+B) null
+C) Error
+D) Garbage
+ANSWER: A
+
+Q5: Output?
+System.out.println(3 + 4 * 2);
+A) 14
+B) 11
+C) 8
+D) 7
+ANSWER: B
+
+Q6: Output?
+int a = 3;
+System.out.println(a << 1);
+A) 6
+B) 4
+C) 3
+D) 8
+ANSWER: A
+
+Q7: Output?
+System.out.println("" + 1 + 2 + 3);
+A) 123
+B) 6
+C) 33
+D) Error
+ANSWER: A
+
+Q8: Output?
+System.out.println((5 > 3) ? "Yes" : "No");
+A) Yes
+B) No
+C) true
+D) Error
+ANSWER: A
+
+Q9: Output?
+System.out.println("Java".charAt(2));
+A) J
+B) v
+C) a
+D) Error
+ANSWER: B
+
+Q10: Output?
+System.out.println("".isEmpty());
+A) true
+B) false
+C) null
+D) Error
+ANSWER: A
+

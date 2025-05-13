@@ -1,0 +1,69 @@
+Which algorithm uses dynamic programming?
+A) Quick Sort
+B) Dijkstra’s Algorithm
+C) Binary Search
+D) DFS
+ANSWER: B
+
+Which traversal gives prefix notation of expression tree?
+A) Inorder
+B) Postorder
+C) Preorder
+D) Level order
+ANSWER: C
+
+Which data structure is used in BFS traversal?
+A) Stack
+B) Queue
+C) Array
+D) Tree
+ANSWER: B
+
+What is the height of a complete binary tree with n nodes?
+A) log n
+B) n
+C) n log n
+D) √n
+ANSWER: A
+
+What does "backtracking" generally solve?
+A) Graph coloring
+B) Sorting
+C) Searching
+D) Tree traversal
+ANSWER: A
+
+Which algorithm finds strongly connected components?
+A) Prim’s
+B) Tarjan’s
+C) Dijkstra’s
+D) Kruskal’s
+ANSWER: B
+
+Which traversal is used in depth-first search?
+A) Level-order
+B) BFS
+C) Preorder/Inorder/Postorder
+D) Binary Search
+ANSWER: C
+
+What is the purpose of the hash function in a hash table?
+A) Sorting
+B) Traversing
+C) Computing key index
+D) Searching
+ANSWER: C
+
+Which data structure helps to maintain insertion order?
+A) HashMap
+B) LinkedHashMap
+C) TreeMap
+D) Stack
+ANSWER: B
+
+Which is faster on average for searching: BST or HashMap?
+A) BST
+B) HashMap
+C) Same
+D) Depends on key
+ANSWER: B

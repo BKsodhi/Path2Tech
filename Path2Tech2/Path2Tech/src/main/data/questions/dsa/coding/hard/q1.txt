@@ -1,0 +1,9 @@
+First Non-Repeating Character
+
+Write a program to find the first non-repeating character in a string. If none, print "None".
+
+Input Format:
+- A single line with a string.
+
+Output Format:
+- The first non-repeating character or "None".

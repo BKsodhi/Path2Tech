@@ -1,0 +1,39 @@
+Test Case 1:
+Input: "abcabcbb"
+Expected Output: 3
+
+Test Case 2:
+Input: "bbbbb"
+Expected Output: 1
+
+Test Case 3:
+Input: "pwwkew"
+Expected Output: 3
+
+Test Case 4:
+Input: "abcdefghijklmnopqrstuvwxyz"
+Expected Output: 26
+
+Test Case 5:
+Input: "abcdafghef"
+Expected Output: 7
+
+Test Case 6:
+Input: "aab"
+Expected Output: 2
+
+Test Case 7:
+Input: "dvdf"
+Expected Output: 3
+
+Test Case 8:
+Input: " "
+Expected Output: 1
+
+Test Case 9:
+Input: "au"
+Expected Output: 2
+
+Test Case 10:
+Input: "dvdbbbbbbcfg"
+Expected Output: 6

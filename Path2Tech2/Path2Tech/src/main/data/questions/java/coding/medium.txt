@@ -1,0 +1,89 @@
+Q1: Output?
+String s = null;
+System.out.println(s + "test");
+A) test
+B) nulltest
+C) Error
+D) null
+ANSWER: B
+
+Q2: Output?
+int[] arr = {1, 2, 3};
+System.out.println(arr[1]);
+A) 1
+B) 2
+C) 3
+D) Error
+ANSWER: B
+
+Q3: Output?
+System.out.println("Result: " + 3 + 2);
+A) Result: 5
+B) Result: 32
+C) 32Result
+D) Error
+ANSWER: B
+
+Q4: Output?
+System.out.println(10 > 5 && 5 < 3);
+A) true
+B) false
+C) Error
+D) 1
+ANSWER: B
+
+Q5: Output?
+for(int i = 0; i < 3; i++) {
+  System.out.print(i);
+}
+A) 012
+B) 123
+C) 321
+D) 0 1 2
+ANSWER: A
+
+Q6: Output?
+String s = "abc";
+System.out.println(s.length());
+A) 2
+B) 3
+C) 4
+D) Error
+ANSWER: B
+
+Q7: Output?
+char c = 'A';
+System.out.println((int)c);
+A) A
+B) 65
+C) 66
+D) 64
+ANSWER: B
+
+Q8: Output?
+int a = 5;
+a += 3;
+System.out.println(a);
+A) 8
+B) 5
+C) 3
+D) Error
+ANSWER: A
+
+Q9: Output?
+boolean flag = false;
+System.out.println(!flag);
+A) true
+B) false
+C) Error
+D) null
+ANSWER: A
+
+Q10: Output?
+System.out.println(Math.max(3, 7));
+A) 3
+B) 7
+C) 10
+D) Error
+ANSWER: B
+
